@@ -1,0 +1,6 @@
+framework module Pods_MaraudersTests {
+  umbrella header "Pods-MaraudersTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
